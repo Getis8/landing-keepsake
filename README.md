@@ -3,7 +3,7 @@
 Адаптивний односторінковий лендінг дизайн-агенції **Keepsake**, створений у межах Лабораторної роботи №7.
 
 ## Демонстрація
-- **GitHub Pages:** https://<Getis8>.github.io/landing-keepsake/
+- **GitHub Pages:** https://getis8.github.io/landing-keepsake/
 
 ## Використані технології та підходи
 - **Семантичний HTML5:** використано `header`, `nav`, `main`, `section`, `article`, `footer`, `form`, один заголовок `h1` на сторінку та коректну ієрархію `h2`–`h3`.
